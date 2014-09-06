@@ -1,5 +1,3 @@
-![mahua](mahua-logo.jpg)
-
 ##如何获取?
 * git clone https://github.com/brainwu/iterm2-colors.git
 
