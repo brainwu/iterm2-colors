@@ -2,10 +2,8 @@
 * git clone https://github.com/brainwu/iterm2-colors.git
 
 ##准备
-* cd ~/.bash_profiel 
 * vim ~/.bash_profile 
-* 把下面的着一段加入
-* source一下就好了
+* 把下面的着一段加入 source ~/.bash_profile
 * export CLICOLOR=1
 * export LSCOLORS=gxfxcxdxbxegedabagacad
 * export PS1='\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;36m\]\w\[\033[00m\]\$'
