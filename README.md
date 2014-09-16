@@ -1,12 +1,23 @@
-##如何获取?
+##How to get ?
 * git clone https://github.com/brainwu/iterm2-colors.git
 
-##如何使用？
-* 点击Preferences 
-* 选中colors标签 
-* 点击load presets
-* import 下载的文件
-* 再次点击load presets 选中 brainwu.itermcolors 搞定
+##Preparation
+* vim ~/.bash_profile 
+* Add the following content to ~/.bash_profile
+* source ~/.bash_profile
+* export CLICOLOR=1
+* export LSCOLORS=gxfxcxdxbxegedabagacad
+* export PS1='\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;36m\]\w\[\033[00m\]\$'
+* export TERM=xterm-256color
 
-##效果图
+##How to use the iterm-color file？
+* open iterm
+* click Preferences 
+* check the colors tab
+* click on load presets
+* import file named brainwu.itermcolors that you have downloaded.
+* click again on load presets and check brainwu.itermcolors.
+* over.
+
+##Img
 ![brainwu](img/brainwu_img.png)
