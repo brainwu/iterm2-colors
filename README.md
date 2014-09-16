@@ -12,7 +12,7 @@
 
 ##How to use the iterm-color file？
 * open iterm2 app
-* click File -> Preferences 
+* click ITerm -> Preferences 
 * check the colors tab
 * click on load presets
 * import file named brainwu.itermcolors that you have downloaded.
